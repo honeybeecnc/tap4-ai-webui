@@ -33,7 +33,7 @@ export default function Footer() {
 
   const SupportLinks = [
     {
-      title: t('Hmt'),
+      title: t('HMT AI Tools Directory'),
       href: 'https://www.hemaotai.com',
     },
     {
