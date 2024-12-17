@@ -33,10 +33,6 @@ export default function Footer() {
 
   const SupportLinks = [
     {
-      title: 'Chat o1',
-      href: 'https://chat4o.ai/',
-    },
-    {
       title: 'Grok Image Generator',
       href: 'https://grokimagegenerator.net/',
     },
@@ -54,7 +50,7 @@ export default function Footer() {
     },
     {
       title: t('tap4'),
-      href: 'https://tap4.ai/',
+      href: 'https://hemaotao.com/',
     },
     {
       title: t('tattoo'),
