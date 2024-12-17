@@ -21,10 +21,10 @@ export const RevalidateOneMonth = 3600 * 24 * 30;
 export const PAGE_SIZE = 20;
 export const InfoPageSize = 12;
 
-export const FORM_PLACEHOLDER = 'https://tap4.ai/';
+export const FORM_PLACEHOLDER = 'https://hemaotai.com/';
 
 export const WEBSITE_EXAMPLE =
-  '<a href="https://tap4.ai/" title="Tap4 AI Tools Directory">Tap4 AI Tools Diresctory</a>';
+  '<a href="https://hemaotai.com/" title="HMT AI Tools Directory">HMT AI Tools Diresctory</a>';
 
 export const STARTUP_LIST = [
   {
@@ -303,7 +303,7 @@ export const STARTUP_LIST = [
   {
     DA: 38,
     Website: 'Tap4 AI',
-    URL: 'https://tap4.ai/submit',
+    URL: 'https://hemaotai.com/submit',
     Price: 'Free',
     Tag: 'AI',
   },
